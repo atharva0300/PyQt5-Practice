@@ -1,0 +1,15 @@
+PyQt 5 Projects 
+------------------------------------------
+
+1. PyQt5 20 Minute Making Application From EXE To Installer
+2. Making a digital clock 
+3. Creating paint application in 40 miutes 
+4. Simple QDial Application
+5. Making Web scraping Application
+6. Making Employee Application with QlistWidget
+7. Making Dockable Application with QDockWidget
+8. How to embed matplotlib in Pyqt5
+9. Tab widget application
+10.Audio to text converter with speech recognition library
+11. How to build media player in Python
+12. Build web browser in Python
